@@ -44,3 +44,5 @@ func (pointerToPerson *person) updateName(newFirstName string) {
 func (p person) print() {
 	fmt.Printf("%+v", p)
 }
+
+// Go The Complete Developer’s Guide (Golang) - Udemy -> 04 Organizing... 46 Gotchas
